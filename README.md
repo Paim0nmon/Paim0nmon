@@ -1,8 +1,8 @@
 ## Hey! Welcole to my profile 🐈
 
-You can call me Paimon.
+You can call me `Paimon`.
 
-- this profile is for test
+- _this profile is for test_
 - i'm new in programming
 - I will be using this profile for my organization and sharing of projects already developed.
 
