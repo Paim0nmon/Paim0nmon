@@ -6,7 +6,7 @@ You can call me `Paimon`.
 - i'm new in programming
 - I will be using this profile for my organization and sharing of projects already developed.
 
-
+![](https://media1.tenor.com/m/MEq6CyJEZVAAAAAC/anxiety.gif)
 
 <!--
 **Paim0nmon/Paim0nmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
